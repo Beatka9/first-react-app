@@ -5,8 +5,9 @@ import Weather from "./Weather"
 function App() {
   return (
     <div className="App">
-        <h1>Hello world</h1>
+        <h1>Weather App</h1>
       <Weather city ="Arezzo"/>
+      <a href="https://github.com/Beatka9/first-react-app">Code on github</a>
     </div>
   );
 }
